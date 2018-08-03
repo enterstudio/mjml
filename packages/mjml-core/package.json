@@ -34,7 +34,7 @@
     "lodash": "^4.17.4",
     "mjml-validator": "~3.3.0",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2",
+    "react-dom": "^16.0.1",
     "warning": "^3.0.0"
   },
   "devDependencies": {
