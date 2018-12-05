@@ -16,7 +16,7 @@
   },
   "homepage": "https://mjml.io",
   "dependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.5",
     "mjml-accordion": "~3.3.0",
     "mjml-button": "~3.3.0",
     "mjml-carousel": "~3.3.0",
