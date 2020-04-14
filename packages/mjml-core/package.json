@@ -28,7 +28,7 @@
     "hoist-non-react-statics": "^1.2.0",
     "html-minifier": "^3.2.3",
     "immutable": "^3.8.1",
-    "jquery": "^3.1.1",
+    "jquery": "^3.5.0",
     "js-beautify": "^1.6.8",
     "juice": "^4.0.2",
     "lodash": "^4.17.4",
