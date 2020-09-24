@@ -33,8 +33,8 @@
     "juice": "^4.0.2",
     "lodash": "^4.17.4",
     "mjml-validator": "~3.3.0",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "warning": "^3.0.0"
   },
   "devDependencies": {
