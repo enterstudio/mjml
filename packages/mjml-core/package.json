@@ -31,7 +31,7 @@
     "jquery": "^3.1.1",
     "js-beautify": "^1.6.8",
     "juice": "^4.0.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "mjml-validator": "~3.3.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
