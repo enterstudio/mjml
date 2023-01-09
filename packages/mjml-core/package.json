@@ -23,7 +23,7 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "classnames": "^2.2.5",
-    "debug": "^2.6.0",
+    "debug": "^3.1.0",
     "he": "^1.1.0",
     "hoist-non-react-statics": "^1.2.0",
     "html-minifier": "^3.2.3",
