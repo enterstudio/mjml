@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@snyk/protect@^1.1209.0":
+  version "1.1209.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1209.0.tgz#9e938362cf684576ead289916274cf8bd5f4e0ce"
+  integrity sha512-E370Imyh7tnkgaYJdjL+Skb7thgcPcSiIISbUhA6/ZtjKGzGLveLXGAjID9nQlizoO+P+D3UfssnE16GJZjWPw==
+
 "@types/fs-extra@0.0.37":
   version "0.0.37"
   resolved "https://registry.yarnpkg.com/@types/fs-extra/-/fs-extra-0.0.37.tgz#195f11bcd9a1b97d9e412c6b66899b545471a1f7"
@@ -1100,9 +1105,10 @@ minimist@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.0.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
 
-mjml-core@~3.3.0-beta.8:
-  version "3.3.0-beta.8"
-  resolved "https://registry.yarnpkg.com/mjml-core/-/mjml-core-3.3.0-beta.8.tgz#cd2ca49ffff300fcd3e496285501fb17a43e481a"
+mjml-core@~3.3.0:
+  version "3.3.5"
+  resolved "https://registry.yarnpkg.com/mjml-core/-/mjml-core-3.3.5.tgz#52113ee20790b9d9b0b5f43c088887c93ceb2580"
+  integrity sha512-Cqc+8HLyMe26Co1jnyKTt+m10rQnXmAjXYcrdJV8QrjpDeLIZd1dClYTBjEAtREmUf5cAovdRHulPLfiOF9sZA==
   dependencies:
     cheerio "^0.22.0"
     classnames "^2.2.5"
@@ -1115,14 +1121,15 @@ mjml-core@~3.3.0-beta.8:
     js-beautify "^1.6.8"
     juice "^4.0.2"
     lodash "^4.17.4"
-    mjml-validator "~3.3.0-beta.8"
+    mjml-validator "~3.3.3"
     react "^15.4.2"
     react-dom "^15.4.2"
     warning "^3.0.0"
 
-mjml-validator@~3.3.0-beta.8:
-  version "3.3.0-beta.8"
-  resolved "https://registry.yarnpkg.com/mjml-validator/-/mjml-validator-3.3.0-beta.8.tgz#0f48be47126235aefaa0b066640120f4ad7ab83d"
+mjml-validator@~3.3.3:
+  version "3.3.5"
+  resolved "https://registry.yarnpkg.com/mjml-validator/-/mjml-validator-3.3.5.tgz#025733dc7528221f3d227f05204e25870e1285a3"
+  integrity sha512-+SPP64nJVG9IX1QwcxPY7POiMZZKlD+jxiuYo1F453IXsezeZCAUq+CmcBrDMHkG5ms1uC5d/GPZ4ICMu2V69A==
   dependencies:
     lodash "^4.17.4"
     warning "^3.0.0"
